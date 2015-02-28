@@ -1,0 +1,30 @@
+DEBUG 2014-12-14 13:40:15,146 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-12-14 13:40:16,154 [1    ] Abp.Modules.DefaultModuleFinder          - Found 11 ABP modules in total.
+DEBUG 2014-12-14 13:40:16,159 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.4.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,160 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.4.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,160 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.4.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihApplicationModule, Salih.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihCoreModule, Salih.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihDataModule, Salih.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihWebApiModule, Salih.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,161 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.Web.SalihWebModule, Salih.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-12-14 13:40:16,164 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2014-12-14 13:40:16,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-02-12 21:33:35,236 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-02-12 21:33:37,745 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2015-02-12 21:33:37,749 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.5.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihApplicationModule, Salih.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihCoreModule, Salih.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,751 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihDataModule, Salih.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,752 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.SalihWebApiModule, Salih.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,752 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Salih.Web.SalihWebModule, Salih.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-02-12 21:33:37,754 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2015-02-12 21:33:39,106 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
